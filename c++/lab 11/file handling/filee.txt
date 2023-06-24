@@ -1,0 +1,4 @@
+This is test stringA
+Integar are good: 1
+Floats are bad 1.2
+hello world

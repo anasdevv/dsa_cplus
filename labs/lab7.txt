@@ -1,0 +1,43 @@
+solve any 2 of these problems for the lab task however practice the rest as they will be helpful for your understanding of linked lists
+
+1. Flattening a linked list
+Input: 5 -> 10 -> 19 -> 28
+| | | |
+V V V V
+7 20 22 35
+| | |
+V V V
+8 50 40
+| |
+V V
+30 45
+
+Output: 5->7->8->10->19->20->22->28->30->35->40->45->50
+
+2.Delete the elements in an linked list whose sum is equal to zero
+
+
+3. Remove duplicate elements from sorted linked list: Remove re occurring elements from a list
+input: 1->1->2->2->3->3
+output: 1->2->3
+4.Add 1 to a number represented as a linked list
+For example 1999 is represented as (1-> 9-> 9 -> 9) and adding 1 to it should change it to (2->0->0->0)
+5.Reverse a linked list in groups of given size
+Input:
+LinkedList: 1->2->2->4->5->6->7->8
+K = 4
+Output: 4 2 2 1 8 7 6 5
+6.Detect and remove loop in linked list given only the head node
+7.Find nth node from the end of linked list
+given number k find the node k places before tail
+8.Function to check if a singly linked list is a palindrome
+a palindrome is 112211 or 121 find if a linked list is a palindrome
+
+9.Delete last occurrence of an item from linked list
+input 2->1->5->2->7->2->8
+item= 2
+output 2->1->5->2->7->8
+
+
+10.Merge a linked list into another linked list at alternate positions.
+For example, if first list is 5->7->17->13->11 and second is 12->10->2->4->6, the first list should become 5->12->7->10->17->2->13->4->11->6 and second list should become empty.
